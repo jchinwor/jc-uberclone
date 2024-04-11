@@ -1,14 +1,8 @@
-# jshopadmin
+# 
 
-This template should help get you started developing with Vue 3 in Vite.
+![Screen Shot 2024-04-11 at 14 10 13](https://github.com/jchinwor/jc-uberclone/assets/90245242/b2706e17-84cf-4324-91cb-d2c95c3f91bc)
+![Screen Shot 2024-04-11 at 14 11 03](https://github.com/jchinwor/jc-uberclone/assets/90245242/af435b02-e2e9-4d24-b730-505ee7b2a394)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
